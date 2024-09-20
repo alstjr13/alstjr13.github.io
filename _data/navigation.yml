@@ -2,12 +2,12 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "About (To be updated)"
      url: https://alstjr13.github.io/about/
-   - title: "Notes"
+   - title: "Notes (To be updated)"
      url: https://alstjr13.github.io/notes/
 
-   - title: "Projects"
+   - title: "Projects (To be updated)"
      url: https://alstjr13.github.io/projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
