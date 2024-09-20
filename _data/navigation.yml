@@ -6,6 +6,9 @@ main:
      url: https://alstjr13.github.io/about/
    - title: "Notes"
      url: https://alstjr13.github.io/notes/
+
+   - title: "Projects"
+     url: https://alstjr13.github.io/projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
