@@ -133,10 +133,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/alstjr13"
+      url: "https://github.com/alstjr13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/sooksook13"
+      url: "https://instagram.com/sooksook13"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/minsuk-seo/"
 
 # Site Footer
 footer:
@@ -149,7 +152,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/alstjr13"
+      url: "https://github.com/alstjr13"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: 
@@ -158,10 +161,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
- #      url: "https://instagram.com/sooksook13"
+      url: "https://instagram.com/sooksook13"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
- #      url: "https://www.linkedin.com/in/minsuk-seo/"
+      url: "https://www.linkedin.com/in/minsuk-seo/"
 
 
 # Reading Files
