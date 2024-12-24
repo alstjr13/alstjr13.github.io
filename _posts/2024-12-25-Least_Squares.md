@@ -1,11 +1,8 @@
 ---
-title: "[Linear Algebra] Least Squares"
 layout: single
-author_profile: true
-date: 2024-12-25
-last_modified_at: 2024-12-25T04:14:00
+title: "[Linear Algebra] Least Squares"
 categories:
-  - linearalgebra
+  - Linear Algebra
 ---
 
 test posting for linear algebra and category
