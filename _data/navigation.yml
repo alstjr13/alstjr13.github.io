@@ -6,13 +6,3 @@ main:
     url: /categories/
   - title: "Resume / CV"
     url: /resume/
-# Category links
-sidebar-category:
-  - title: "Mathematics"
-    children:
-      - title: "Linear Algebra"
-        url: categories/linear_algebra
-        category: "linearalgebra"
-      - title: "Calculus"
-        url: categories/calculus
-        category: "calculus"
