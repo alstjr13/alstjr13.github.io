@@ -1,5 +1,4 @@
 ---
-published: true
 title: "[Linear Algebra] Least Squares"
 date: 2024-12-25
 last_modified_at: 2024-12-25T04:14:00
