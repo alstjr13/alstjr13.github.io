@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Least Squares"
-categories: linearalgebra
+categories: ["Linear Algebra"]
 ---
 
 # 와우~ 
