@@ -2,7 +2,7 @@
 layout: single
 title: "Case Study"
 categories: Consulting
-tags: [Strategy, ["Case Study"]]
+tag: [Strategy, ["Case Study"]]
 ---
 
 # Case Study - Strategy
