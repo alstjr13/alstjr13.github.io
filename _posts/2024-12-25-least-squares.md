@@ -2,7 +2,7 @@
 layout: single
 title: "Least Squares"
 categories: Mathematics
-tag: ["Linear Algebra"]
+tag: [["Linear Algebra"], Optimization]
 ---
 
 # 와우~ 
