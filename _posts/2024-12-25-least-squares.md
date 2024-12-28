@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Least Squares"
 categories: Mathematics
 tag: [["Linear Algebra"], Optimization]
