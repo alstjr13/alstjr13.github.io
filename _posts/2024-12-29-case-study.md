@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Case Study"
 categories: Consulting
 tag: [["Linear Algebra"], Optimization]
