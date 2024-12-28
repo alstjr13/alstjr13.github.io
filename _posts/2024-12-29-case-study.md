@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Case Study"
 categories: Consulting
 tag: [Strategy, ["Case Study"]]
