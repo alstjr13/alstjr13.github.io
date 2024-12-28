@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Strategy] Case Study"
+title: "Case Study"
 categories: CaseStudy
 ---
 
