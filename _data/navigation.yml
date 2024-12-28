@@ -8,3 +8,5 @@ main:
     url: /tags/
   - title: "Resume / CV"
     url: /resume/
+  - title: "Certification / License"
+    url: /certification/
