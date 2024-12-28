@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "Category"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "Resume / CV"
     url: /resume/
