@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Strategy] Case Study"
-categories: ["Case Study"]
+categories: CaseStudy
 ---
 
 # Case Study - Strategy
