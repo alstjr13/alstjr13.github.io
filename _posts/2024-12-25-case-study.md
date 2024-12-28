@@ -2,7 +2,7 @@
 layout: single
 title: "Case Study"
 categories: Consulting
-tag: [["Linear Algebra"], Optimization]
+tag: [["Case Study"], Strategy]
 ---
 
 # Case Study - Strategy
