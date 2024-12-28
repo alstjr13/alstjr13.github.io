@@ -7,4 +7,7 @@ author_profile: true
 
 ##### Welcome to Minsuk's Webpage!
 <br>
-My name is Minsuk
+Hello! I'm Minsuk - a positive, people person :)
+<br>
+Key characteristics about me:
+- I'm a Kaggler!
