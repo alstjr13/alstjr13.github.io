@@ -7,6 +7,7 @@ tag: [["Case Study"], Strategy]
 
 이 책을 공부하기 앞서 나는 무슨 마음가짐으로 **컨설턴트** 라는 직업을 **왜** 내 직업으로 고를려고 하는지에 대해서 써보고자 한다.
 
+<!--
 #### "컨설턴트" 라는 직업에 도전하기 전에..
 
 나는 본래 Software Developer (개발자) 라는 직업을 가질려고 했었다. 끈기를 가지고 학교에서 배웠던 내용들을 기반으로 인턴 경험도 해보고, [LeetCode](https://leetcode.com/), [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/) 등의 웹사이트들을 통해 코딩테스트 공부를 하였었다. 모든 Easy 단계들의 문제는 무난하게 푸는 정도, Medium, Hard 단계들은 어렵지만 그래도 반절 이상은 다 풀수 있는 능력을 가졌었다.
@@ -24,3 +25,6 @@ tag: [["Case Study"], Strategy]
 #### Why Consulting?
 
 대학교 동아리 (Association of Korean Canadian Scientists and Engineers, Korean Intercollegiate Student Society) 경험을 통해
+
+
+-->
