@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Linear "
+title: "LP Simplex"
 categories: Mathematics
 tag: [["Linear Algebra"], Optimization]
 ---
