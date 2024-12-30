@@ -9,10 +9,11 @@ tag: [["Linear Algebra"], Optimization]
 
 #### Assumptions:
 We will develop the simplex algorithm for an LP in standard form
-<p style="text-align:center;"> 
-  minimize c<sup>T</sup>x
-  
-  subject to Ax = b, x $\geqslant$ 0 
-</p>
+$$\text{minimize} ~~~~    c^{T}\mathbf{x}$$
+$$ \text{subject to} ~~~~ A \mathbf{x} = \mathbf{b}, \mathbf{x} \geq 0 $$
+where $A$ is $m \times n$
 
-**test posting for linear algebra and category**
+We assume that:
+* $A$ has full row rank (no redundant rows)
+* The LP is feasible
+* All basic feasible solutions (i.e., extreme points) are nondegenerate
