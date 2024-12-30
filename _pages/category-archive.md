@@ -1,5 +1,5 @@
 ---
-title: "Category"
+title: "Projects and Study Notes"
 layout: categories
 permalink: /categories/
 author_profile: true
