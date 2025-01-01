@@ -7,13 +7,15 @@ toc: true
 **[WEBSITE UNDER CONSTRUCTION!]**
 
 
-##### Welcome to Minsuk's Webpage!
+### Welcome to Minsuk's Webpage!
+<br>
+#### About me
 <br>
 Hello! I'm Minsuk - a positive, people person 😀
 <br>
 I started to 
 
-I key strengths are:
+#### I key strengths are:
 - IT Skills 🖥️:
   - Python
   - SQL
@@ -27,5 +29,5 @@ I key strengths are:
   - Logical approach
   - Leadership
 
-Key characteristics about me:
+#### Key characteristics about me:
 - I'm a Kaggler!
