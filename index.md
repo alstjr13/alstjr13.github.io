@@ -14,8 +14,18 @@ Hello! I'm Minsuk - a positive, people person 😀
 I started to 
 
 I key strengths are:
-- I can code (Python, SQL, Julia)
-- 
+- IT Skills 🖥️:
+  - Python
+  - SQL
+  - Julia
+  - BI Tools (ex. Tableau)
+- Soft Skills 🧑🏻:
+  - Responsible
+  - Ability to work under pressure
+  - Communication
+  - Adaptability
+  - Logical approach
+  - Leadership
 
 Key characteristics about me:
 - I'm a Kaggler!
