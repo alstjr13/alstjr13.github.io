@@ -14,8 +14,8 @@ Hello! I'm Minsuk - a positive, people person 😀
 <br>
 I started to 
 
-#### My key strengths are:
-<br>
+ My ** key strengths ** are:
+<br> 
 | IT Skills 🖥️  | Level of Proficiency |
 | ------------- | ------------- |
 | Python        | ⭐⭐⭐⭐⭐ |
