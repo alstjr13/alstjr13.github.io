@@ -13,12 +13,13 @@ Hello! I'm Minsuk - a positive, people person 😀
 I started to study abroad in Canada since 2009. Recently, I graduated from University of British Columbia
 
  My **key** **strengths** are:
-| IT Skills 🖥️  | Level of Proficiency |
-| ------------- | ------------- |
-| Python        | ⭐⭐⭐⭐⭐ |
-| SQL           | ⭐⭐⭐⭐ |
-| Julia         | ⭐⭐ |
-| Tableau       | ⭐⭐⭐ |
+
+| IT Skills 🖥️    | Level of Proficiency |
+| --------- | ------- |
+| Python     | ⭐⭐⭐⭐⭐        |
+| SQL          | ⭐⭐⭐⭐        |
+| Julia          | ⭐⭐        |
+| Tableau          | ⭐⭐⭐        |
 
 #### I am ... 🧑🏻
   - Responsible
