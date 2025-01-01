@@ -10,7 +10,10 @@ toc: true
 ### Welcome to Minsuk's Webpage!
 #### About me
 Hello! I'm Minsuk - a positive, people person 😀
-I started to study abroad in Canada since 2009. Recently, I recently received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/). 
+I started to study abroad in Canada since 2009. Recently, I recently received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/).
+
+Currently, I'm open for an internship in South Korea in job Strategy Consulting, Data Analytics & AI Consulting
+
 
  My **key** **strengths** are:
 
@@ -22,6 +25,7 @@ I started to study abroad in Canada since 2009. Recently, I recently received Ba
 | Tableau          | ⭐⭐⭐        |
 
 #### I am ... 🧑🏻
+  - EAGER to learn
   - Responsible
   - Able to work under pressure
   - Open to communicate
