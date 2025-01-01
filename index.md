@@ -15,12 +15,7 @@ Hello! I'm Minsuk - a positive, people person 😀
 I started to 
 
 #### My key strengths are:
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
-
+<br>
 | IT Skills 🖥️  | Level of Proficiency |
 | ------------- | ------------- |
 | Python        | ⭐⭐⭐⭐⭐ |
