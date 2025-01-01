@@ -14,13 +14,13 @@ Hello! I'm Minsuk - a positive, people person 😀
 <br>
 I started to 
 
-#### I key strengths are:
-IT Skills 🖥️  | Level of Proficiency         
-------------- | -------------
-Python        | ⭐⭐⭐⭐⭐
-SQL           | ⭐⭐⭐⭐
-Julia         | ⭐⭐
-Tableau       | ⭐⭐⭐
+#### My key strengths are:
+| IT Skills 🖥️  | Level of Proficiency |
+| ------------- | ------------- |
+| Python        | ⭐⭐⭐⭐⭐ |
+| SQL           | ⭐⭐⭐⭐ |
+| Julia         | ⭐⭐ |
+| Tableau       | ⭐⭐⭐ |
 
 #### I am ... 🧑🏻
   - Responsible
