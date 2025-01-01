@@ -10,7 +10,7 @@ toc: true
 ### Welcome to Minsuk's Webpage!
 #### About me
 Hello! I'm Minsuk - a positive, people person 😀
-I started to study abroad in Canada since 2009. Recently, I graduated from University of British Columbia
+I started to study abroad in Canada since 2009. Recently, I recently received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/). 
 
  My **key** **strengths** are:
 
