@@ -4,15 +4,15 @@ permalink: /certification/
 author_profile: true
 ---
 
+I like to learn about things relavant to my interests and explore. This page is to keep track of what I have studied and to take notes regarding to each licenses or certifications I've studied for.
 
 
-
-**<ins>Licenses earned:</ins>**
+#### <ins>Licenses:</ins>
 - Advanced Data Analyst Semi-Professional, <em>November 2024</em>
 
+<br>
 
-
-**<ins>Certifications:</ins>**
+#### <ins>Certifications:</ins>
 
 Coursera:
 - IBM Data Science Professional Certificate, <em>November 2024</em>
