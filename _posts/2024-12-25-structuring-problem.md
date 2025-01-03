@@ -3,6 +3,7 @@ layout: single
 title: "[Case Study] 시장 규모 측정"
 categories: Consulting
 tag: [["Case Study"], Strategy]
+toc: true
 ---
 
 #### 문제 파악
