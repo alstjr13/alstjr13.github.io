@@ -23,6 +23,7 @@ Currently, I'm open for an internship in South Korea in job Strategy Consulting,
 | SQL          | ⭐⭐⭐⭐        |
 | Julia          | ⭐⭐        |
 | Tableau          | ⭐⭐⭐        |
+| Microsoft Office Suite | ⭐⭐⭐⭐ |
 
 #### I am ... 🧑🏻
   - EAGER to learn
