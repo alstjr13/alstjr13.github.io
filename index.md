@@ -6,14 +6,16 @@ toc: true
 
 **[WEBSITE UNDER CONSTRUCTION!]**
 
-
 ### Welcome to Minsuk's Webpage!
 #### About me
-Hello! I'm Minsuk - a positive, people person 😀
-I started to study abroad in Canada since 2009. Recently, I recently received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/).
+Hello! I'm Minsuk - a positive, people person 😀
+I started to study abroad in Canada since 2009. Recently, I received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/).
 
-Currently, I'm open for an internship in South Korea in job Strategy Consulting, Data Analytics & AI Consulting
+#### Interests
+My interests lie in Data Analytics (using software, Business Intelligence tools such as Python and Tableau) and Strategy in business. 
 
+#### Open to...
+Currently, I'm open for an <strong>internship position</strong> in Data Analytics in Consulting firms or start-up companies.
 
  My **key** **strengths** are:
 
