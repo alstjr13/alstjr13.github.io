@@ -24,4 +24,5 @@ Minsuk Seo
 
 #### <ins>Final Report</ins>
 
-<iframe src="../assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
+
+<iframe src="/assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
