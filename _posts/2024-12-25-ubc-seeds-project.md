@@ -7,7 +7,7 @@ toc: true
 ---
 
 #### <ins>Role :</ins>
-<ins>Data Analyst and team lead</ins>
+<em>Data Analyst and team lead</em>
 
 #### <ins>Time Period of Activity</ins>
 <em> January 2024 ~ May 2024 </em>
