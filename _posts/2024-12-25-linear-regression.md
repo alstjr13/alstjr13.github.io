@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Linear Regression"
-categories: Data Analysis
+categories: ["Data Analysis"]
 tag: [Data, Mathematics, ["Data Modelling"]]
 toc: true
 ---
