@@ -6,17 +6,15 @@ tag: [Project, Consulting, Group Project, Strategy, ["Data Ethics"]]
 toc: true
 ---
 
-#### <ins>Role :</ins>
-<em>Data Analyst and team lead</em>
+| **Role**   | <em>Data Analyst and team lead</em> |
+| -------- | ------- |
+| **Time Period of Activity** | <em> January 2024 ~ May 2024 </em>    |
 
-#### <ins>Time Period of Activity</ins>
-<em> January 2024 ~ May 2024 </em>
-
-#### <ins>Final Report</ins>
+#### Final Report
 
 <iframe src="/assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
 
-### <ins>About</ins>
+#### About
 This page discusses a group project conducted as part of the [Social Ecological Economic Development Studies (SEEDS)](https://sustain.ubc.ca/programs/seeds-sustainability-program) program.
 
 #### Project Summary:
