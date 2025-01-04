@@ -13,7 +13,7 @@ This page discusses a group project conducted as part of the [Social Ecological 
 **[THIS IS THE SUMMARY OF THE PROJECT]**
 
 #### Project Approach:
-**[THIS IS THE THOUGHT LOGIC OF HOW WE BUILT UP THE PROJECT]**
+This project was originally designed to analyze the 
 
 #### <ins>Group Members:</ins>
 - Muellysa Timmagen
