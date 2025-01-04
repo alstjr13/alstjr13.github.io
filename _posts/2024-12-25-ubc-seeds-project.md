@@ -19,9 +19,9 @@ Gracy
 Minsuk Seo
 
 
-#### Time Period
+#### <ins>Time Period</ins>
 <em> January 2024 ~ May 2024 </em>
 
 #### <ins>Final Report</ins>
 
-<iframe src="../assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"> </iframe>
+<iframe src="../assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
