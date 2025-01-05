@@ -1,22 +1,19 @@
 ---
 layout: single
+title: "Welcome to Minsuk's Homepage!"
 author_profile: true
 toc: true
 ---
 
-### Welcome to Minsuk's Homepage!
-#### About me
+### About me
 Hello! I'm Minsuk - a positive, people person 😀
 
 I started to study abroad in Canada since 2009. Recently, I received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/). 
 
-#### Interests
+### Interests
 My interests lie in Data Analytics (using software, Business Intelligence tools such as Python and Tableau) and Strategy in business. 
 
-#### Open to...
-Currently, I'm open for an <strong>internship position</strong> in Data Analytics in Consulting firms or start-up companies.
-
- My **key** **strengths** are:
+#### My Key Strengths Are...
 
 | IT Skills 🖥️    | Level of Proficiency |
 | --------- | ------- |
@@ -26,7 +23,7 @@ Currently, I'm open for an <strong>internship position</strong> in Data Analytic
 | Tableau          | ⭐⭐⭐        |
 | Microsoft Office Suite | ⭐⭐⭐⭐ |
 
-#### I am ... 🧑🏻
+### I am ... 🧑🏻
   - EAGER to learn
   - Responsible
   - Able to work under pressure
@@ -34,3 +31,8 @@ Currently, I'm open for an <strong>internship position</strong> in Data Analytic
   - Adaptability
   - Approach problems logically
   - An individual with leadership
+
+
+
+#### Open to...
+Currently, I'm open for an <strong>internship position</strong> in Data Analytics in Consulting firms or start-up companies.
