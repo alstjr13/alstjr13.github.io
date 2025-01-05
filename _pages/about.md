@@ -1,12 +1,12 @@
 ---
 layout: single
+title: "About"
 permalink: /about/
 author_profile: true
 toc: true
 ---
 
-### About 
-I am a recent graduate from [University of British Columbia](https://ubc.ca/),
+I recently received my Bachelor of Science degree, [Combined Major in Science](https://cms.ubc.ca/) from [University of British Columbia](https://ubc.ca/). 
 
 ### 웹사이트 소개
 
