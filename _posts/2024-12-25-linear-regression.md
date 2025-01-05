@@ -17,7 +17,3 @@ The objective is to find the linear equation that best predicts the dependent va
 The mathematical equation to linear regression can be expressed as:
 
 $$y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_nx_n + \epsilon$$
-
-$$\text{or}$$
-
-$$y = X\beta + \epsilon$$
