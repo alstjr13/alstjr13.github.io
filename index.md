@@ -28,9 +28,7 @@ My interests lie in Data Analytics (using software, Business Intelligence tools 
   - Responsible
   - Able to work under pressure
   - Open to communicate
-  - Adaptability
-  - Approach problems logically
-  - An individual with leadership
+  - A coffee addict...☕😀
 
 
 
