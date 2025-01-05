@@ -5,6 +5,9 @@ author_profile: true
 toc: true
 ---
 
+### About 
+I am a recent graduate from [University of British Columbia](https://ubc.ca/),
+
 ### 웹사이트 소개
 
 이 개인 웹사이트는 제가 평소에 하는 공부 노트, 공부 목적의 개인 프로젝트, 기록 정리 목적으로 만들게 되었습니다.
