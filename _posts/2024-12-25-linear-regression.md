@@ -18,6 +18,6 @@ The mathematical equation to linear regression can be expressed as:
 
 $$y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_nx_n + \epsilon$$
 
-$$or$$
+$$\text{or}$$
 
 $$y = X\beta + \epsilon$$
