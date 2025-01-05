@@ -4,7 +4,6 @@ title: "Linear Regression"
 categories: ["Data Analysis"]
 tag: [Data, Mathematics, ["Data Modelling"]]
 toc: true
-use_math: true
 ---
 
 #### Introduction:
