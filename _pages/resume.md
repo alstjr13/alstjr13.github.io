@@ -10,4 +10,5 @@ author_profile: true
 
 #### <ins> Korean Resume </ins>
 
-<iframe src="../assets/files/서민석_이력서.pdf" width="100%" height="500px"> </iframe>
+<iframe src="../assets/files/MinsukSeo_Resume_KOR.pdf" width="100%" height="500px"> </iframe>
+
