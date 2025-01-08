@@ -31,12 +31,4 @@ y_2 \\
 y_n
 \end{bmatrix}$
 
-Normal Equations
 
-````{div} theorem
-Let $A$ be an $m \times n$ matrix with $m > n$ and $\mathrm{rank}(A) = n$. The least squares approximation of the system $A \boldsymbol{x} \approx \boldsymbol{b}$ is the solution of the system
-$$
-A^TA\boldsymbol{x} = A^T\boldsymbol{b}
-$$
-
-The system is called the **normal equations**.
