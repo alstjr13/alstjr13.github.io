@@ -7,6 +7,7 @@ toc: true
 
 ### About me
 Hello! I'm Minsuk - a positive, people person 😀
+응애 안녕하세요
 
 I started to study abroad in Canada since 2009. Recently, I received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/). 
 
