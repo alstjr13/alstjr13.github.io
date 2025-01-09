@@ -4,7 +4,6 @@ title: "Linear Regression"
 categories: ["Data Analysis"]
 tag: [Data, Mathematics, ["Data Modelling"]]
 toc: true
-use_math: true
 ---
 
 #### Introduction:
@@ -31,4 +30,11 @@ y_2 \\
 y_n
 \end{bmatrix}$
 
+
+
+#### Code Example:
+```python
+import pandas as pd
+
+```
 
