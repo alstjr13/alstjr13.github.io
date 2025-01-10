@@ -15,29 +15,38 @@ The objective is to find the linear equation that best predicts the dependent va
 #### Mathematical Equation:
 The mathematical equation to linear regression can be expressed as:
 
-$y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_nx_n + \epsilon$
+$$y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_nx_n + \epsilon $$
 
-$\text{or}$
+$\text{ }$
 
-$\mathbf{y} = \mathbf{X}\boldsymbol{\beta} + \boldsymbol{\epsilon}$
+$$\text{or}$$
 
-$\text{where}$
+$\text{ }$
 
-$\mathbf{y} = \begin{bmatrix}
-y_1 \\
-y_2 \\
-\vdots \\
-y_n
-\end{bmatrix}$
+$$\mathbf{y} = \mathbf{X}\boldsymbol{\beta} + \boldsymbol{\epsilon}$$
+
+$\text{ }$
+
+$$\text{where}$$ 
+
+$\text{ }$
+
+$$\mathbf{y} = \begin{bmatrix} y_{1} \\ y_{2} \\ \vdots \\ y_{n} \end{bmatrix}, 
+\mathbf{X} = \begin{bmatrix} x_{1}^{T} \\ x_{2}^{T} \\ \vdots  \\ x_{n}^{T} \end{bmatrix} = 
+\begin{bmatrix} 1 & x_{11} & \cdots & x_{1p} \\ 1 & x_{21} & \cdots & x_{2p} \\ \vdots & \vdots & \ddots & \vdots \\ 1 & x_{n1} & \cdots & x_{np}\end{bmatrix}, 
+\boldsymbol{\beta} = \begin{bmatrix} \beta_{0} \\ \beta_{1} \\ \beta_{2} \\ \vdots \\ \beta_{p} \end{bmatrix},
+\boldsymbol{\epsilon} = \begin{bmatrix} \epsilon_{1} \\ \epsilon_{2} \\ \vdots \\ \epsilon_{n} \end{bmatrix}$$
+
+$$\text{in matrix notation.}$$
+
 
 
 
 #### Code Example:
 ```python
+# NOTE: The dataset is from Kaggle
 import pandas as pd
-
-df = pd.read_csv("file_link.csv")
-
+from sklearn.model_selection import train_test_split
 
 ```
 
