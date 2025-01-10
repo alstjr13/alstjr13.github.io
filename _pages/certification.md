@@ -2,20 +2,18 @@
 layout: single
 permalink: /certification/
 author_profile: true
+toc: true
 ---
-
-I like to learn about things relavant to my interests and explore. This page is to keep track of what I have studied and to take notes regarding to each licenses or certifications I've studied for.
-
 
 #### <ins>Licenses:</ins>
 - Advanced Data Analyst Semi-Professional, <em>November 2024</em>
-
-<br>
+- Microsoft Office Specialist: Master (Office 2016) <em> January 2025 </em>
 
 #### <ins>Certifications:</ins>
 
 Coursera:
 - IBM Data Science Professional Certificate, <em>November 2024</em>
+- Google Data Analytics Certificate, <em> January 2025 </em>
 
 DataCamp:
 - Machine Learning For Business, <em> December 2024</em>

@@ -46,7 +46,89 @@ $$\text{in matrix notation.}$$
 ```python
 # NOTE: The dataset is from Kaggle
 import pandas as pd
-from sklearn.model_selection import train_test_split
 
+# Read .csv file using Pandas
+df = pd.read_csv("https://github.com/ybifoundation/Dataset/raw/main/Salary%20Data.csv")
+
+'''
+    | "Experience Years" | "Salary"
+-----------------------------------------
+0   |                1.1 |   39343
+-----------------------------------------
+1   |                1.2 |   42774
+-----------------------------------------
+.
+.
+.
+'''
 ```
+
+```python
+# Define target and feature variables
+X = df[["Experience Years"]]
+y = df[["Salary"]]
+```
+
+```python
+from scipy import stats
+
+# Returns:
+'''
+- slope: Slope of the regression line.
+- intercept: Intercept of the regression line.
+- rvalue: The Pearson correlation coefficient.
+- pvalue: The p-value for a hypothesis test whose null hypothesis is that the slope is zero
+- stderr: Standard error of the estimated slope (gradient), under the assumption of residual normality.
+- intercept_stderr: Standard error of the estimated intercept, under the assumption of residual normality.
+'''
+result = stats.linregress(X.values.flatten(), y.values.flatten())
+
+print(result.slope)                  # 9523.650507417702
+print(result.intercept)              # 25673.01576053029
+print(result.rvalue)                 # 0.9776918968570497
+print(result.pvalue)                 # 2.324309157602015e-27
+print(result.stderr)                 # 331.90995198065553
+print(result.intercept_stderr)       # 1920.0997893859012
+
+# Equation for computing: f(x) = mx + b, where m is the slope and b is the intercept 
+y_pred = result.slope * X + result.intercept
+```
+
+```python
+import matplotlib.pyplot as plt
+
+# Plot the data points
+plt.scatter(X, y, color='blue', label='Data points')
+
+# Plot the linear regression line
+y_pred = result.slope * X + result.intercept
+plt.plot(X, y_pred, color='red', label='Regression line')
+
+# Scientific notation for p-value
+formatted_p_value = f"{result.pvalue:.3e}"
+
+# Add regression equation and p-value in a box at the bottom-right
+equation = f"y = {result.slope:.2f}x + {result.intercept:.2f}"
+p_value_text = f"p-value: {formatted_p_value}"
+text_box = f"{equation}\n{p_value_text}"
+
+# Create a bounding box for for LOBF equation and p-value
+props = dict(boxstyle='round', facecolor='white', alpha=0.8)
+plt.text(X.max() * 0.72, y.min() * 1.0, text_box, fontsize=8, bbox=props, color='black')
+
+# Add labels
+plt.xlabel("Experience Years")
+plt.ylabel("Salary")
+plt.title("Linear Regression: Salary vs. Experience")
+plt.legend()
+
+plt.show()
+```
+
+##### Output from Code Example
+<img src="/assets/files/linear-regression-photo.png" width="80%" height="80%" style="border:none;">
+
+##### Insights:
+
+
 
