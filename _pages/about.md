@@ -10,10 +10,19 @@ toc: true
 #### Brief Introduction
 I recently received my Bachelor of Science degree, [Combined Major in Science](https://cms.ubc.ca/) from [University of British Columbia](https://ubc.ca/). 
 
-#### 컨설턴트가 되려는 이유
-대학교 2,3학년때, [Association of Korean Canadian Scientists and Engineers](https://www.akcse.ca/), Korean Intercollegiate Student Society 라는 한인 동아리들에서 대학교 입시생들과 대학교 저학년 학생들을 위해 입시, 전공선택 컨설팅을 제공하는 업무를 하는 임원으로 활동했었습니다. 저는 중고등학교를 사립학교를 나와서, 운이 좋게도 입시 컨설팅을 해주는 선생님들이 계셨고, 제가 받은 서비스를 다른 학생들도 동일하게 받았으면 좋겠다-라는게 계기였습니다. 
+#### Why Consulting?
+대학교 2,3학년때, [Association of Korean Canadian Scientists and Engineers](https://www.akcse.ca/), Korean Intercollegiate Student Society 라는 한인 동아리들에서 대학교 입시생들과 저학년 대학생들을 위해 입시, 전공선택 컨설팅을 제공하는 [업무](https://www.vanchosun.com/news/main/frame.php?main=search&search_mode=news&queryTerm=%EC%84%9C%EB%AF%BC%EC%84%9D)를 하는 임원으로 활동했었습니다. 저는 중고등학교를 사립학교를 나와서, 운이 좋게도 입시 컨설팅을 해주는 선생님들이 계셨고, 제가 받은 서비스를 다른 학생들도 동일하게 받았으면 좋겠다-라는게 계기였습니다. 
 
-동아리들에 임원으로 참여하며 대면 입시 설명회 기획, 개최, 발표도 해보고, 제가 입시생일때 
+동아리 임원으로 참여하며 입시 설명회 기획, 개최, 발표하는 과정을 밞았고, 제가 경험했던 입시 컨설팅 과정들을 학생들에 맞게끔 개별 컨설팅을 제공해주었습니다.
+
+이 과정들을 통해 제가 도움을 줬던 아이들이 UBC 신입생으로서 저에게 찾아와 건네는 고맙다는 메세지들을 받아보니, **뿌듯함**과 **보람감**을 강하게 느꼈습니다.
+
+사회와 직업을 고르는 기준도 다를것 없다고 생각합니다. 기업과 공공기관에서 종사하시는 분들께서 직면한 어려움들에 있어서 도움을 주는 사람이 되고 싶고, 제가 생각하는 직업을 고르는데 있어서의 초심입니다. 
+
+많이 배우고, 기여 하도록 하겠습니다.
+
+감사합니다.
+
 
 #### 웹사이트 소개
 이 개인 웹사이트는 제가 평소에 하는 공부 노트, 공부 목적의 개인 프로젝트, 기록 정리 목적으로 만들게 되었습니다.
