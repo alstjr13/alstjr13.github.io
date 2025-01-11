@@ -9,7 +9,10 @@ toc: true
 
 #### Brief Introduction
 <div class="custom-box">
-I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"> Combined Major in Science </a> from <a href="https://ubc.ca/"> University of British Columbia </a>
+I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"> Combined Major in Science </a> from <a href="https://ubc.ca/"> University of British Columbia. </a>
+<br>
+Before entering the job market, I thought it would be a good idea to encapsulate notes projects I’m interested in and create a portfolio out of it!
+<br> 
 </div>
 
 #### Why Consulting?
@@ -23,7 +26,7 @@ I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"
  <br>
 사회와 직업을 고르는 기준도 다를것 없다고 생각합니다. 기업과 공공기관에서 종사하시는 분들께서 직면한 어려움들에 있어서 도움을 주는 사람이 되고 싶고, 제가 생각하는 직업을 고르는데 있어서의 초심입니다. <br>
  <br>
-많이 배우고, 기여 하도록 하겠습니다. <br>
+많이 부족하지만, 항상 배움의 자세를 잃지않고, 많은 분들께 도움을 드릴 수 있는 사람이 될 수 있도록 노력하겠습니다.<br>
 <br>
 <p style="text-align: left; padding-right: 20px;"> 감사합니다. </p>
 

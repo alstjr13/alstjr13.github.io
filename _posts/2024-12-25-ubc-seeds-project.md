@@ -14,7 +14,7 @@ toc: true
 
 #### <ins>Final Report:</ins>
 
-<iframe src="/assets/files/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
+<iframe src="/assets/files/projects/UBC_SEEDS_ReducingFoodWaste_FinalReport.pdf" width="100%" height="500px"></iframe>
 
 #### <ins>About:</ins>
 This page discusses a group project conducted as part of the [Social Ecological Economic Development Studies (SEEDS)](https://sustain.ubc.ca/programs/seeds-sustainability-program) program.
