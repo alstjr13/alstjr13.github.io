@@ -13,7 +13,8 @@
 
   &__inner-wrap {
     @include clearfix;
-    margin-inline: initial;
+    margin-inline: auto;
+    /* margin-inline: initial; */
     padding: 1em;
     max-width: 100%;
     display: -webkit-box;
