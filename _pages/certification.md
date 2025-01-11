@@ -11,11 +11,11 @@ toc: true
 
 #### <ins>Certifications:</ins>
 
-Coursera:
+<strong>Coursera:</strong>
 - IBM Data Science Professional Certificate, <em>November 2024</em>
 - Google Data Analytics Certificate, <em> January 2025 </em>
 
-DataCamp:
+<strong>DataCamp:</strong>
 - Machine Learning For Business, <em> December 2024</em>
 - Introduction to LLMs in Python, <em>September 2024</em>
 - Deep Learning for Text with PyTorch, <em>July 2024</em>
