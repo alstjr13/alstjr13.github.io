@@ -33,6 +33,10 @@ Before entering the job market, I thought it would be a good idea to encapsulate
 <p style="text-align: right; padding-right: 20px;"> 서민석 올림 </p>
 </div>
 
+#### Education
+- University of British Columbia, <em> Sept, 2016 - Aug, 2024 </em>
+  - Military leave, <em> Aug, 2021 - Feb, 2023 </em>
+- Shawnigan Lake School, <em> Sept, 2011 - Jun, 2016 </em>
 
 <!-- 
 #### 웹사이트 소개
