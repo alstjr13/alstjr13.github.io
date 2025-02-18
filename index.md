@@ -29,3 +29,5 @@ My interests lie in Data Analytics and Strategy in business. I am passionate abo
   - Able to work under pressure
   - Open to communicate
   - A coffee addict...☕😀
+
+### .

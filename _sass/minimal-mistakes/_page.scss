@@ -4,17 +4,20 @@
 
 #main {
   @include clearfix;
-  margin-inline: auto;
-  padding-inline: 4em;
+  margin: 0.5% 5% 0.5% 5%;
+  //margin-inline: auto
+  padding-inline-end: 4em;      //padding-inline: 4em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
+/*
   @include breakpoint($x-large) {
     max-width: $max-width;
   }
+*/
 }
 
 body {
@@ -57,7 +60,7 @@ body {
     .page__share {
       position: relative;
       float: inline-start;
-      margin-inline: 0;
+      margin-inline: 1% 1%;
       width: 100%;
       clear: both;
     }
