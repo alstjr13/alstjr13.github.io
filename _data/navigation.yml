@@ -2,7 +2,9 @@
 main:
   - title: "🙆🏻 About"
     url: /about/
-  - title: "🖥️ Projects and Notes"
+  - title: "🖥️ Project"
+    url: /project_show/
+  - title: "📒 Notes"
     url: /categories/
  # - title: "Tags"
  #   url: /tags/

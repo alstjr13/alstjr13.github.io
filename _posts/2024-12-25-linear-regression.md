@@ -126,9 +126,6 @@ plt.show()
 ```
 
 ##### Output from Code Example
-<img src="/assets/files/linear-regression-photo.png" width="80%" height="80%" style="border:none;">
+<img src="/assets/files/pictures/linear-regression-photo.png" width="30%" height="30%" style="border:none;">
 
 ##### Insights:
-
-
-
