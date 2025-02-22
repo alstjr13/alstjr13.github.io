@@ -7,13 +7,11 @@ toc: true
 
 #### <ins>Licenses:</ins>
 - Advanced Data Analyst Semi-Professional, <em>November 2024</em>
-- Microsoft Office Specialist: Master (Office 2016) <em> January 2025 </em>
 
 #### <ins>Certifications:</ins>
 
 <strong>Coursera:</strong>
 - IBM Data Science Professional Certificate, <em>November 2024</em>
-- Google Data Analytics Certificate, <em> January 2025 </em>
 
 <strong>DataCamp:</strong>
 - Machine Learning For Business, <em> December 2024</em>

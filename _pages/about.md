@@ -15,6 +15,8 @@ Before entering the job market, I thought it would be a good idea to encapsulate
 <br> 
 </div>
 
+
+<!-- 
 #### Why Consulting?
 
 <div class="custom-box">
@@ -31,7 +33,8 @@ Before entering the job market, I thought it would be a good idea to encapsulate
 <p style="text-align: left; padding-right: 20px;"> 감사합니다. </p>
 
 <p style="text-align: right; padding-right: 20px;"> 서민석 올림 </p>
-</div>
+</div> -->
+
 
 #### Education
 - University of British Columbia, <em> Sept, 2016 - Aug, 2024 </em>
