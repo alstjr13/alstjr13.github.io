@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Management Information System Related Journal Review"
-categories: [Journal Review Capsule]
+categories: ['Journal Review Capsule']
 tag: [Journal, List]
 toc: true
 ---
@@ -22,3 +22,4 @@ toc: true
 
 #### [임일 교수님](https://ysb.yonsei.ac.kr/faculty.asp?mid=m02&sOpt=&uid=41) (Professor, School of Business at Yonsei University, Republic of Korea)
 - [When and How to Advertise? An Empirical Study on Mobile Ad Response Based on Contextual Factors](https://core.ac.uk/reader/326836040), (AMCIS)
+- [A Theoretical Framework for Collaborative Partnerships between Large and Small to Medium Size Companies- Building a Sound and Sustainable Business Eco-system](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001107814), (KCI, 2006)
