@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "네 가지의 주요 케이스 시나리오"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---

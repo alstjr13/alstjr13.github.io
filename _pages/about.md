@@ -11,7 +11,7 @@ toc: true
 <div class="custom-box">
 I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"> Combined Major in Science </a> from <a href="https://ubc.ca/"> University of British Columbia. </a>
 <br>
-Before entering the job market, I thought it would be a good idea to encapsulate notes projects I’m interested in and create a portfolio out of it!
+<!-- Before entering the job market, I thought it would be a good idea to encapsulate notes projects I’m interested in and create a portfolio out of it! -->
 <br> 
 </div>
 

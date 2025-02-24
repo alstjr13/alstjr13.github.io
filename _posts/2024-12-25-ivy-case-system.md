@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "아이비 케이스 시스템"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---

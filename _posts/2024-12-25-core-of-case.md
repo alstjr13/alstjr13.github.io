@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "케이스 문제의 핵심"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---

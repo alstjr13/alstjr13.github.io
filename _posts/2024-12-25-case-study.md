@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Case In Point - Before Everything"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---

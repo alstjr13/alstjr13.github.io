@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "시장 규모 측정"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---

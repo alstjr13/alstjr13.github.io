@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "손익 분석"
-categories: Consulting
+categories: ['Consulting - Strategy']
 tag: [["Case Study"], Strategy]
 toc: true
 ---
