@@ -14,6 +14,7 @@ toc: true
 #### University of British Columbia
 
 ##### [이진무 교수님](https://blogs.ubc.ca/genemoolee/) (Associate Professor, Sauder School of Business at University of British Columbia, Canada)
+- [Enhancing Social Media Analysis with Visual Data Analytics: A Deep Learning Approach](https://www.researchgate.net/publication/348493784_Enhancing_Social_Media_Analysis_with_Visual_Data_Analytics_A_Deep_Learning_Approach)
 - [서비스산업 내 인공지능로봇 기술 및 도입 동향](https://kosen.kr/info/reports/REPORT_0000000001735)
 
 ##### [박재철 박사님](https://jaecheol-park.github.io/) (PhD Candidate, Sauder School of Business at University of British Columbia, Canada)
