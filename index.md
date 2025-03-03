@@ -4,6 +4,8 @@ title: "Welcome to Minsuk's Homepage!"
 author_profile: true
 ---
 
+**[NOTE: WEBSITE UNDER CONSTRUCTION!]**
+
 ### About me
 Hello! I'm Minsuk 😀 <!--- a positive, people person 😀 -->
 

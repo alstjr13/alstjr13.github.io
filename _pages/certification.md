@@ -12,14 +12,15 @@ toc: true
 
 <strong>Coursera:</strong>
 - IBM Data Science Professional Certificate, <em>Nov 2024</em>
-- Google Data Analytics Professional Certificate, <em>Feb 2025 </em>
-- Bayesian Statistics - Duke University, <em>Feb 2025</em>
-- Causal Inference - Columbia University, <em>Feb 2025</em>
-- Causal Inference 2 - Columbia University, <em>Feb 2025</em>
-- Information Systems Specialization - University of Minnesota, <em>Feb 2025</em>
-- AI For Business Specialization - University of Pennsylvania, <em>Feb 2025</em> 
+- Causal Inference - Columbia University, <em>Mar 2025</em>
+- Google Data Analytics Professional Certificate, <em>Nov 2024 - Ongoing </em>
+- Bayesian Statistics - Duke University, <em>Nov 2024 - Ongoing</em>
+- Causal Inference 2 - Columbia University, <em>Mar 2025 - Ongoing</em>
+- Information Systems Specialization - University of Minnesota, <em>Nov 2024 - Ongoing</em>
+- AI For Business Specialization - University of Pennsylvania, <em>Nov 2024 - Ongoing</em> 
 
 <strong>DataCamp:</strong>
+- Introduction to Statistics in Python <em>Mar 2025</em>
 - Machine Learning For Business, <em> Dec 2024</em>
 - Introduction to LLMs in Python, <em>Sept 2024</em>
 - Deep Learning for Text with PyTorch, <em>Jul 2024</em>
