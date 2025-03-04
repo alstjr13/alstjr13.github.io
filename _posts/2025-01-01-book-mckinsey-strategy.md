@@ -6,6 +6,9 @@ tag: [Book, ["Strategy"], ["Consulting"]]
 toc: true
 ---
 
+#### Book
+<img src="/assets/files/pictures/맥킨지의전략적프레임.jpg" width="30%" height="30%" style="border:none;">
+
 #### Introduction
 ##### 업무량 극대화
 직장인이던 대학원생이던 어디에 있던 "한정된 시간 내에 최대한의 성과를 내고 싶다", "논리적으로 나의 결과물을 전달하여 설득력을 높이고 싶다" 라는 생각을 하는 것 같다.
@@ -46,4 +49,3 @@ toc: true
 - "흐름을 보는" 프레임워크
 - "비교하는" 프레임워크
 
-##### "요소를 분해하는" 프레임워크

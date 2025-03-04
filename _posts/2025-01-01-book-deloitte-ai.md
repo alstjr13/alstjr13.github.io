@@ -6,4 +6,5 @@ tag: [Book, ["Artificial Intelligence"], ["Deloitte"], ["Consulting"]]
 toc: true
 ---
 
-#### Summary
+#### Book
+<img src="/assets/files/pictures/AI혁신바이블.jpg" width="30%" height="30%" style="border:none;">

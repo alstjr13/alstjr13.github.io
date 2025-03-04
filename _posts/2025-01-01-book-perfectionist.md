@@ -6,8 +6,10 @@ tag: [Book, Perfectionist]
 toc: true
 ---
 
-### 글귀
+#### Book
+<img src="/assets/files/pictures/불안한완벽주의자를위한책.jpg" width="30%" height="30%" style="border:none;">
 
+#### 글귀
 <div class="custom-box">
 <strong>가치</strong>
 <br> 
