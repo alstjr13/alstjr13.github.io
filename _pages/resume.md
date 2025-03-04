@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 #### <ins> Curriculum Vitae </ins>
-
+<iframe src="../assets/files/resume/CV_MinsukSeo.pdf" width="100%" height="500px"> </iframe>
 
 #### <ins> English Resume </ins>
 
