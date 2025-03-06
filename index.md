@@ -4,7 +4,12 @@ title: "Welcome to Minsuk's Homepage!"
 author_profile: true
 ---
 
-**[NOTE: WEBSITE UNDER CONSTRUCTION!]**
+### [NOTE: WEBSITE STILL UNDER CONSTRUCTION!]:
+<div class="custom-box">
+I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"> Combined Major in Science </a> from <a href="https://ubc.ca/"> University of British Columbia. </a>
+<br>
+<br> 
+</div>
 
 ### About me
 Hello! I'm Minsuk 😀 <!--- a positive, people person 😀 -->
