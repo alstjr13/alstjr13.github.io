@@ -6,9 +6,18 @@ author_profile: true
 
 ### [NOTE: WEBSITE STILL UNDER CONSTRUCTION!]:
 <div class="custom-box">
-I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"> Combined Major in Science </a> from <a href="https://ubc.ca/"> University of British Columbia. </a>
+Dear visitors,
 <br>
+<br>
+Welcome to my webpage!
+Please note that this website is still under construction. This webpage is intended for my academic use, and further updates will be made as needed.
+<br>
+If needed, please refer to my <a href="https://www.linkedin.com/in/minsuk-seo/"> LinkedIn </a> website.
+<br>
+<br>
+Sincerely,
 <br> 
+Minsuk Seo
 </div>
 
 ### About me

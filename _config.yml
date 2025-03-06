@@ -114,7 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Minsuk Seo"
-  avatar           : "assets/files/minsuk.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  
+  avatar           : "assets/files/minsuk.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bachelor of Science @ University of British Columbia"
   location         : "Seoul, South Korea"
   email            :
