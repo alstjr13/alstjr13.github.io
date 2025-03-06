@@ -32,7 +32,7 @@ I started to study abroad in Canada since 2009 until 2024. As of August 2024, I 
 ### Methods
 Machine Learning, Natural Language Processing, Optimization, Data analysis, econometrics 
 
-### Interests
+<!-- ### Interests -->
 <!-- My interests lie in Data Analytics and Strategy in business. I am passionate about uncovering insights from data to drive informed decision-making and crafting innovative strategies that contribute to organizational growth and success. Combining my technical expertise with a strategic mindset, I aim to bridge the gap between data and impactful business solutions. -->
 
 #### My Key Strengths Are...
