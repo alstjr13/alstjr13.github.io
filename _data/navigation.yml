@@ -9,6 +9,6 @@ main:
  # - title: "Tags"
  #   url: /tags/
   - title: "📝 Resume / CV"
-    url: /resume/
+    url: /cv/
   - title: "🪪 Certification / License"
     url: /certification/
