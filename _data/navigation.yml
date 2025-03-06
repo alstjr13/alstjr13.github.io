@@ -2,8 +2,8 @@
 main:
   - title: "🙆🏻 About"
     url: /about/
-  - title: "🖥️ Project"
-    url: /project_show/
+#  - title: "🖥️ Project"
+#    url: /project_show/
   - title: "📒 Notes"
     url: /categories/
  # - title: "Tags"
