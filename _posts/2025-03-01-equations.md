@@ -6,6 +6,8 @@ tag: [Math, Econometrics]
 toc: true
 ---
 
+### Metrics
+
 #### Shannon-Wiener Index
 
 **Usage:** a metric used to measure the diversity of a community or ecosystem.
@@ -22,4 +24,10 @@ where:
 #### Gini Coefficient (Gini Index)
 
 **Usage:** Measures how unequal income or wealth is distributed within a population.
+
+### Statistics
+
+#### Mean Squared Error (MSE)
+
+
 

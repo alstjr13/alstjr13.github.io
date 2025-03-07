@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "[Deep Learning - Links] "
-categories: ['Deep Learning']
+categories: ['ML & DL']
 tag: [Data, ['Machine Learning'], ['Deep Learning'], Optimization]
 toc: true
 ---
+
