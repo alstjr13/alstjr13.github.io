@@ -20,6 +20,9 @@ Sincerely,
 Minsuk Seo
 </div>
 
+
+어떠한 수단과 방법을 가리지 않고, 안될 것 같은 것들을 되게하자.
+
 ### About me
 Hello! I'm Minsuk 😀 <!--- a positive, people person 😀 -->
 
