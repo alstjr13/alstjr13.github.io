@@ -25,9 +25,52 @@ where:
 
 **Usage:** Measures how unequal income or wealth is distributed within a population.
 
+### Classification Metrics
+
+- TN $\rightarrow$ True Negatives (non-fraud predicted as non-fraud)
+- TP $\rightarrow$ True Positives (fraud predicted as fraud)
+- FN $\rightarrow$ False Negatives (fraud predicted as non-fraud)
+- FP $\rightarrow$ False Positives (non-fraud predicted as fraud)
+
+#### Confusion Matrix
+
+```python
+------------------------------------------------------------------------------------------------------  
+                                PREDICTED
+                           Positive                  Negative             Total
+------------------------------------------------------------------------------------------------------  
+ACTUAL | Positive |   True Positive         |  False Negative (FN)  |   Number of Positives
+       |          |        (TP)             |   (Type 2 Error)      |
+------------------------------------------------------------------------------------------------------      
+       | Negative |   False Positive (FP)   |    True Negative      |   Number of Negatives
+       |          |      (Type 1 Error)     |         (TN)          |
+------------------------------------------------------------------------------------------------------
+       |  Total   |        TP + FP          |         FN + TN       |   Number of Examples
+```
+
+#### Accuracy
+
+$$Accuracy = \frac{TP + TN}{TP + FP + TN + FN}$$
+
+#### Precision
+
+$$Precision = \frac{TP}{TP + FP}$$
+
+#### Recall
+
+$$Recall = \frac{TP}{TP + FN}$$
+
+#### F1 Score
+
+$$F1 Score = 2 \times \frac{Precision \times Recall}{Precision + Recall}$$
+
+#### 
+
 ### Statistics
 
 #### Mean Squared Error (MSE)
 
+#### Coefficient of Determination ($R^{2}$)
+$$R^{2} = 1 - \frac{\text{Sum of squares of residuals}}{\text{Total sum of squares}} = \frac{}{}$$
 
 
