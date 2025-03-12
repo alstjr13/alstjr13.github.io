@@ -7,11 +7,11 @@ toc: true
 ---
 
 #### Also known as:
-- L2 Regularization
+- L2 Penalty
 - Tikhonov regularization
 
 #### Introduction:
-[Ridge regression](https://en.wikipedia.org/wiki/Ridge_regression#Tikhonov_regularization) is a variant of linear regression that includes an L2 regularization term to prevent overfitting.
+[Ridge regression](https://en.wikipedia.org/wiki/Ridge_regression#Tikhonov_regularization) is a variant of linear regression that includes an L2 penalty term to prevent overfitting.
 
 #### Mathematic Equation:
 Tikhonov regularization has the form:
