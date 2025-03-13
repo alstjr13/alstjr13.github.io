@@ -7,4 +7,9 @@ toc: true
 ---
 
 #### Also known as:
-- L1 Regularization
+- L1 penalty
+
+
+#### Optimization
+To estimate the coefficients, we formulate:
+$argmin_{}$

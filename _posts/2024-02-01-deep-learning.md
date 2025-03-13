@@ -57,6 +57,13 @@ where the equation of linear unit can be expressed as:
 
 $$y = w_{0}x_{0} + w_{1}x_{1} + w_{2}x_{2} + b$$
 
+#### Layers
+
+Neural networks typically organize their neurons into layers. When we collect together linear units having a common set of inputs, we get a dense layer.
+
+<img src="/assets/files/pictures/layers.png" width="30%" height="30%" style="border:none;">
+
+We can also interpret each layer in a neural network as performing a relatively simple transformation. Through a deep stack of layers, a neural network can transform its inputs in more complex ways. In a well-trained neural network, each layer can lead to such transformations closer to the solutions we want.
 
 
 #### Sequential Model
