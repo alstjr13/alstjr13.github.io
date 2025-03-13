@@ -4,7 +4,7 @@ title: "Welcome to Minsuk's Homepage!"
 author_profile: true
 ---
 
-### [NOTE: WEBSITE STILL UNDER CONSTRUCTION!]:
+### [NOTE: WEBSITE UNDER CONSTRUCTION!]:
 <div class="custom-box">
 Dear visitors,
 <br>
@@ -19,7 +19,6 @@ Sincerely,
 <br> 
 Minsuk Seo
 </div>
-
 
 
 ### About me
