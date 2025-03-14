@@ -99,3 +99,22 @@ N, M = get_stats(ratings)
 
 
 ```
+
+
+#### Content-based Filtering
+Content-based filtering is a supervised machine learning approach to recommender systems. In content-based filtering, we assume that we are given item or user feature. Given movie information (for example), we create user profile for each user. We treat ratings prediction problem as a set of regression problems and build a regression model for each user. Once we have trained regression models for each user, we complete the utility matrix by predicting ratings for each user using their corresponding models.
+
+##### Question to ask: How do we use the features to predict missing ratings?
+
+Using the ratings and movie features:
+- We build profiles for difference users
+- Train a supervised machine learning model for each user
+- Predict ratings using the trained models
+
+##### Building user profiles:
+- For each user $i$, create a user profile by:
+  - Create $X$ and $y$ for the user $i$ where:
+      - Each row in $X$ contains the movie features of movie $j$ rated by $i$
+      - Each value in $y$ corresponding rating given to the movie $j$ given by $i$
+  - Fit a regression model using $X$ and $y$
+  - Apply the model to predict ratings for new items
