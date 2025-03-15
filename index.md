@@ -27,7 +27,6 @@ Hello! I'm Minsuk 😀 <!--- a positive, people person 😀 -->
 I started to study abroad in Canada since 2009 until 2024. As of August 2024, I received Bachelor of Science degree, [Combined Major in Science](https://cms.science.ubc.ca/) from [University of British Columbia](https://www.ubc.ca/). 
 
 ### Academic Interests
-<!--My interests in academics lie in **Information Systems**. 나는 아직 공부를 더 하고 싶다. 난 대학원에 간다. -->
 [Yonsei University, Management Information System](https://sites.google.com/site/isatyonsei/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4?authuser=0)
 
 ### Methods
