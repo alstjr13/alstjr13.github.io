@@ -31,11 +31,12 @@ PTQ can be divided into $3$ common types:
   - During inference, the activations are dynamically quantized based on their range of values
   - (한국어로) training 이후, 모델 weight들을 quantization 진행
   - activation때는 FP32 형태로 저장해놓고, inference 할 때 quantize하고, 완료 후 다시 dequantize해서 저장
+  
 - **Static Quantization (Full Integer Quantization)**:
   - Both weights and activations are quantized to INT8
   - Requires calibrating using sample dataset to estimate the dynamic range of activations before deployment
   - (한국어로) weight 와 activation 모두 INT8로 quantized
-  - 
+
 - **Float16 quantization**:
   - Instead of quantizing to INT8, this method quantizes weights and activations to FP16, which maintains some of the dynamic range of FP32 while providing faster inference
 

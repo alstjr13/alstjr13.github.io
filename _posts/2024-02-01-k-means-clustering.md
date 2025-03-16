@@ -16,3 +16,7 @@ toc: true
 4. Anomaly detection
 5. Clustering languages
 
+#### Illustration
+<img src="/assets/files/pictures/k-means-clustering.jpg" width="50%" height="50%">
+
+<img src="/assets/files/pictures/k-means-clustering2.jpg" width="50%" height="50%">
