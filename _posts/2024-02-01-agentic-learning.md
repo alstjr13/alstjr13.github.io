@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Agentic Learning"
+title: "[Deep Learning] Agentic Learning"
 categories: ['ML & DL']
 tag: [Data, ['Machine Learning'], ['Deep Learning']]
 toc: true

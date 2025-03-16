@@ -23,7 +23,13 @@ where:
 
 #### Gini Coefficient (Gini Index)
 
-**Usage:** Measures how unequal income or wealth is distributed within a population.
+**Usage:** Measures how unequal income or wealth is distributed within a population (captures how far the Lorenz curve falls from the "line of equality" by comparing the areas A and B)
+
+$$\text{Gini coefficient} = \frac{A}{A + B}$$
+
+#### Entropy
+
+$$Entropy = \sum_{i=1}^{C}-p_{i}*\log{p_{i}}$$
 
 ### Classification Metrics
 

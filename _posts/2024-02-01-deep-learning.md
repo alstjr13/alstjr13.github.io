@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Deep Learning"
+title: "[Deep Learning] General"
 categories: ['ML & DL']
 tag: [Data, ['Machine Learning'], ['Deep Learning'], ['Neural Network']]
 toc: true
