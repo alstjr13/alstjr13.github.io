@@ -29,13 +29,13 @@ PTQ can be divided into $3$ common types:
 - **Dynamic Quantization**: 
   - Quantizes only the weights to INT8 and keeps activations in FP32 during inference
   - During inference, the activations are dynamically quantized based on their range of values
-  - (한국어로) training 이후, 모델 weight들을 quantization 진행
+  - (한국어로는:) training 이후, 모델 weight들을 quantization 진행
   - activation때는 FP32 형태로 저장해놓고, inference 할 때 quantize하고, 완료 후 다시 dequantize해서 저장
   
 - **Static Quantization (Full Integer Quantization)**:
   - Both weights and activations are quantized to INT8
   - Requires calibrating using sample dataset to estimate the dynamic range of activations before deployment
-  - (한국어로) weight 와 activation 모두 INT8로 quantized
+  - (한국어로는:) weight 와 activation 모두 INT8로 quantized
 
 - **Float16 quantization**:
   - Instead of quantizing to INT8, this method quantizes weights and activations to FP16, which maintains some of the dynamic range of FP32 while providing faster inference
@@ -70,6 +70,9 @@ The model is trained with fake quantization, where FP32 values are rounded to lo
 - **Useful in cases where** the model parameters vary significantly in magnitude.
 
 <img src="/assets/files/pictures/logarithmic-quantization.png" width="30%" height="30%" style="border:none;">
+
+#### Python
+- [PyTorch Quantization](https://pytorch.org/docs/stable/quantization.html)
 
 #### Journals to consider about Quantization
 - [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/pdf/2103.13630)
