@@ -17,9 +17,7 @@ toc: true
 5. Clustering languages
 
 #### Illustration
-<img src="/assets/files/pictures/k-means-clustering.jpg" width="50%" height="50%">
-
-<img src="/assets/files/pictures/k-means-clustering2.jpg" width="50%" height="50%">
+<img src="/assets/files/pictures/k-means-clustering.jpg" width="40%" height="30%"> <img src="/assets/files/pictures/k-means-clustering2.jpg" width="40%" height="30%">
 
 #### K-Means Clustering (2D) Code Sample
 
@@ -94,14 +92,53 @@ plt.show()
 
 ```python
 import pandas as pd
-import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 from sklearn.cluster import KMeans
+from sklearn.datasets import load_iris
 from sklearn.preprocessing import StandardScaler
 
-from sklearn.datasets import load_iris
+"""
+Procedure 1: Load Data
+"""
+iris = load_iris()                                    # Dataset
+X = iris.data                                         # Feature data
+y = iris.target                                       # True labels 
 
-iris = load_iris()                     # Dataset
-X = iris.data                          # Feature data
-y = iris.target                        # True labels
+"""
+Procedure 2: Scale Data
+"""
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
 
+"""
+Procedure 3: Apply KMeans clustering to 3D data
+             and get cluster centers and labels
+"""
+X_3D = X_scaled[:, :3]                                # Dimensions: Sepal Length, Sepal Width, Petal Length
+kmeans = KMeans(n_clusters=3, random_state=0, n_init=10)
+kmeans.fit(X_3D)
+
+centers = kmeans.cluster_centers_
+labels = kmeans.labels_
+
+"""
+Procedure 4: Plot
+"""
+fig = plt.figure(figsize=(12, 8))
+ax = fig.add_subplot(111, projection='3d')
+
+ax.scatter(X_3D[:, 0], X_3D[:, 1], X_3D[:, 2], c=labels, alpha=1)
+ax.scatter(centers[:, 0], centers[:, 1], centers[:, 2], c='red', marker='X', s=300, label='Cluster Center')
+
+ax.set_xlabel("Sepal Length")
+ax.set_ylabel("Sepal Width")
+ax.set_zlabel("Petal Length")
+ax.set_title("K-Means Clustering (3D)")
+
+plt.legend()
+plt.show()
 ```
+
+##### Output
+<img src="/assets/files/pictures/kmeans-3d.png" width="30%" height="30%">

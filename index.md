@@ -46,5 +46,6 @@ Machine Learning, Natural Language Processing, Optimization, Data analysis, econ
 | Microsoft Office Suite | ⭐⭐⭐⭐ |
 
 ### I am ... 🧑🏻
-  - EAGER to learn
-  - Responsible
+  - EAGER to learn 📚
+  - Responsible 👐🏻
+  - and a coffee lover 😏

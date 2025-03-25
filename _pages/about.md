@@ -37,9 +37,10 @@ I recently received my Bachelor of Science degree, <a href="https://cms.ubc.ca/"
 
 
 #### Education
-- University of British Columbia, <em> Sept, 2016 - Aug, 2024 </em>
+- [University of British Columbia](https://www.ubc.ca/), <em> Sept, 2016 - Aug, 2024 </em>
   - Military leave, <em> Aug, 2021 - Feb, 2023 </em>
-- Shawnigan Lake School, <em> Sept, 2011 - Jun, 2016 </em>
+- [Shawnigan Lake School](https://www.shawnigan.ca/), <em> Sept, 2011 - Jun, 2016 </em>
+- 
 
 <!-- 
 #### 웹사이트 소개
