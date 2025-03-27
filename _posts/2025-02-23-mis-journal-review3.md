@@ -6,6 +6,9 @@ tag: [['Management Information Systems'], ['Yonsei University']]
 toc: true
 ---
 
+#### Link
+[Click me!](https://www.sciencedirect.com/science/article/pii/S0378720624001435?via%3Dihub)
+
 #### Notes
 - Question: **What does it mean? "Antecedents in the context of AI recommendation algorithms"**
   - Answer: The factors or conditions that precede and influence the system's performance, user trust, and adoption.
@@ -21,10 +24,12 @@ toc: true
 
 #### Adaptation behaviour
 Adaptation behaviour can be classified into several types:
+- Extended Adaptation behaviour
+- Integrative Adaptation behaviour
 
-##### Extended
+##### Extended Adaptation behaviour
 
-##### Integrative
+##### Integrative Adaptation behaviour
 
 ##### Innovative
 most closely related to this research, b/c it occurs when individuals use system features in innovative ways that differ from the original purposes.
@@ -36,9 +41,6 @@ most closely related to this research, b/c it occurs when individuals use system
 #### Search Strategy
 - [Snowball Sampling](https://en.wikipedia.org/wiki/Snowball_sampling)
   - Method that includes locating relevant papers and examining their reference lists to discover additional keywords used in prior studies
-- 
-
-
 
 #### Summary
 - Authors have investigated about AI manipulation behaviours from social media (YouTube and Instagram) users.
