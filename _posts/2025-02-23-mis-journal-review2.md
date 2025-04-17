@@ -12,6 +12,7 @@ toc: true
 #### PDF File
 <iframe src="/assets/files/articles/main_ssrn.pdf" width="50%" height="500px"></iframe>
 
+<!-- 
 #### Purpose of this research paper
 - proposing a visual data analytics framework to enhance social media research **using deep learning models**
 
@@ -29,4 +30,4 @@ toc: true
 - SOTA ML
 
 #### Summary
-- 
+-->

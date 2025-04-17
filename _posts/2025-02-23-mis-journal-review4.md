@@ -12,6 +12,7 @@ toc: true
 #### PDF File
 <iframe src="/assets/files/articles/KCI_FI001107814.pdf" width="50%" height="500px"></iframe>
 
+<!-- 
 #### About
 - 본 연구는 대기업과 중소기업의 수익과 경쟁력의 양극화 문제를 장기적 $\cdot$ 쌍대적 관점에서 바라본다.
 - 기업생태계 차원의 문제를 바람직한 방식으로 해결하고자 하는 취지로 작성된 논문이다. 
@@ -51,4 +52,4 @@ toc: true
     - 식 (食, food)
     - 주 (住, shelter)
       - 그러면, 양극화는 결국엔 생존 본능에서 나오는 것이지 않을까?
-
+-->
