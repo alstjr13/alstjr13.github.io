@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 로지컬 씽킹"
+title: "로지컬 씽킹"
 categories: [Book Review]
 tag: [Book, Logic, ["Consulting"]]
 toc: true

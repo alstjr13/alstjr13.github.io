@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 천재보고서"
+title: "천재보고서"
 categories: [Book Review]
 tag: [Book, ["Must Read 👌🏼"]]
 toc: true

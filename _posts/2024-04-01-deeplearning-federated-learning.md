@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Federated Learning"
-categories: ['ML & DL']
+title: "Federated Learning"
+categories: ['Deep Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning']]
 toc: true
 ---

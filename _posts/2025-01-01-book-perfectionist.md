@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 불안한 완벽주의자를 위한 책"
+title: "불안한 완벽주의자를 위한 책"
 categories: [Book Review]
 tag: [Book, Perfectionist]
 toc: true

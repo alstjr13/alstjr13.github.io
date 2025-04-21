@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Knowledge Distillation"
-categories: ['ML & DL']
+title: "Knowledge Distillation"
+categories: ['Deep Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning']]
 toc: true
 ---
@@ -89,10 +89,28 @@ class LightNN(nn.Module):
 
 ```python
 '''
-For Training and Evaluation 
+For Training and Evaluation, assume CUDA available
 '''
+device = torch.accelerator.current_accelerator().type if torch.accelerator.is_available() else 'cpu'
+print(f"Using Device: {device}")                                                                       # Using Device: cuda
 
-def train():
+# Suppose that we are using CIFAR-10 dataset, based on PyTorch Knowledge Distillation Tutorial
+train_dataset = datasets.CIFAR10(root='./data', train=True, download=True, transform=transforms_cifar)
+test_dataset = datasets.CIFAR10(root='./data', train=False, download=True, transform=transforms_cifar)
+
+train_loader = torch.utils.data.DataLoader(train_dataset, batch_size = 128, shuffle = True, num_workers = 2)
+test_loader = torch.utils.data.DataLoader(test_dataset, batch_size = 128, shuffle = False, num_workers = 2)                            # We don't shuffle test dataset
+
+def train(model, train_loader, epochs, learning_rate, device):                                                                         # For training function, not much of a difference compared to traditional training function, follow and implement
+    criterion = nn.CrossEntropyLoss()
+    optimizer = optim.Adam(model.parameters(), lr=learning_rate)
+
+    model.train()         # Training mode
+
+    for epoch in range(epochs):
+        total_loss = 0.0
+        for inputs, labels in train_loader:
+
 
 ```
 

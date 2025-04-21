@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Machine Learning] Recommender Systems "
-categories: ['ML & DL']
+title: "Recommender Systems"
+categories: ['Machine Learning']
 tag: [Data, ['Machine Learning'], ['Collaborative Filtering']]
 toc: true
 ---

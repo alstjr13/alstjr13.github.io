@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Machine Learning] K-Means Clustering"
-categories: ['ML & DL']
+title: "K-Means Clustering"
+categories: ['Machine Learning']
 tag: [Data, ['Machine Learning'], Classification]
 toc: true
 ---

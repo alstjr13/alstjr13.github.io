@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 군주론"
+title: "군주론"
 categories: [Book Review]
 tag: [Book, ['Must Read 👌🏼']]
 toc: true

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Quantization"
-categories: ['ML & DL']
+title: "Quantization"
+categories: ['Deep Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning']]
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Activation Functions"
-categories: ['ML & DL']
+title: "Activation Functions"
+categories: ['Deep Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning'], ['Neural Network']]
 toc: true
 ---

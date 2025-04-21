@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 케이스 인 포인트"
+title: "케이스 인 포인트"
 categories: [Book Review]
 tag: [Book, ["Consulting"], ["Case Study"]]
 toc: true

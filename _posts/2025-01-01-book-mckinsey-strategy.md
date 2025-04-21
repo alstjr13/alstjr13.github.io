@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Book Review] 맥킨지의 전략적 프레임"
+title: "맥킨지의 전략적 프레임"
 categories: [Book Review]
 tag: [Book, ["Strategy"], ["Consulting"]]
 toc: true

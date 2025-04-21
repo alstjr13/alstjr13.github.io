@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Machine Learning] K-Nearest Neighbours"
-categories: ['ML & DL']
+title: "K-Nearest Neighbours"
+categories: ['Machine Learning']
 tag: [Data, ['Machine Learning'], Classification]
 toc: true
 ---

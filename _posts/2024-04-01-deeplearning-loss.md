@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Loss"
-categories: ['ML & DL']
+title: "Loss"
+categories: ['Deep Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning'], ['Neural Network']]
 toc: true
 ---

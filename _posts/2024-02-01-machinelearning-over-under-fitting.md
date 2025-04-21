@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Deep Learning] Overfitting / Underfitting"
-categories: ['ML & DL']
+title: "Overfitting / Underfitting"
+categories: ['Machine Learning']
 tag: [Data, ['Machine Learning'], ['Deep Learning'], ['Neural Network']]
 toc: true
 ---

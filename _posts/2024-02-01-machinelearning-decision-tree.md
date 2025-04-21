@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Machine Learning] Decision Tree"
-categories: ['ML & DL']
+title: "Decision Tree"
+categories: ['Machine Learning']
 tag: [Data, ['Machine Learning']]
 toc: true
 ---
