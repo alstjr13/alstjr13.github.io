@@ -77,6 +77,6 @@ $$F1 Score = 2 \times \frac{Precision \times Recall}{Precision + Recall}$$
 #### Mean Squared Error (MSE)
 
 #### Coefficient of Determination ($R^{2}$)
-$$R^{2} = 1 - \frac{\text{Sum of squares of residuals}}{\text{Total sum of squares}} = \frac{}{}$$
+$$R^{2} = 1 - \frac{\text{Sum of squares of residuals}}{\text{Total sum of squares}} = 1 - \frac{\sum{(y_{i} - \hat{y_{i}})^{2}}}{\sum{(y_{i}-\bar{y})^{2}}}$$
 
 

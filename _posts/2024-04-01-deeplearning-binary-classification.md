@@ -45,6 +45,4 @@ history_df = pd.DataFrame(history.history)
 history_df.loc[5:, ['loss', 'val_loss']].plot()
 history_df.loc[5:, ['binary_accuracy', 'val_binary_accuracy']].plot()
 
-
-
 ```
