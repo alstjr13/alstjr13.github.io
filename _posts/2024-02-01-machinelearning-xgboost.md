@@ -23,26 +23,30 @@ Gradient boosting is a method that goes through cycles to iteratively add models
 # Preprocess data
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.impute import SimpleImputer
 
-data = pd.read_csv('../input/melbourne-housing-snapshot/melb_data.csv')
+data = pd.read_csv('/kaggle/input/home-data-for-ml-course/train.csv')
+data.dropna(axis=0, subset=['SalePrice'], inplace=True)
+y = data.SalePrice
 
-columns_to_use = ['Rooms', 'Distance', 'Landsize', 'BuildingArea', 'YearBuilt']
+X = data.drop(['SalePrice'], axis=1).select_dtypes(exclude=['object'])
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
 
-X = data[columns_to_use]
-y = data.Price
-
-X_train, X_valid, y_train, y_valid = train_test_split(X, y)
+imputer = SimpleImputer()
+X_train = imputer.fit_transform(X_train)
+X_test = imputer.fit_transform(X_test)
 ```
 
 ```python
 from xgboost import XGBRegressor
 from sklearn.metrics import mean_absolute_error
 
-model = XGBRegressor()
-model.fit(X_train, y_train)
+model = XGBRegressor(n_estimators=1000)
+model.fit(X_train, y_train, 
+          early_stopping_rounds=5,
+          eval_set=[(X_test, y_test)],
+          verbose=False)
 
-predictions = model.predict(X_valid)
-
-
-
+predictions = model.predict(X_test)
+print(f"Mean Absolute Error : {mean_absolute_error(predictions, y_test)}")                           # Mean Absolute Error : 17708.147988013698
 ```
