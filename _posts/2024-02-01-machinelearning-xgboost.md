@@ -18,6 +18,13 @@ Gradient boosting is a method that goes through cycles to iteratively add models
 - Finally, we add the new model to ensemble.
   - Iterate...
 
+#### Boosting overview
+- Concept that can be applied to a set of machine learning models:
+  - "Meta-algorithm"
+- Ensemble meta-algorithms used to convert many weak learners into a strong learner
+  - Weak learner: ML algorithms that is slightly better than chance
+  - Strong learner: Any algorithm that can be tuned to achieve good performance
+
 #### Python Code Example
 ```python
 # Preprocess data

@@ -20,6 +20,7 @@ toc: true
 - AI For Business Specialization - University of Pennsylvania, <em>Nov 2024 - Ongoing</em> 
 
 <strong>DataCamp:</strong>
+- Extreme Gradient Boosting with XGBoost <em>Apr 2025</em>
 - Introduction to Statistics in Python <em>Mar 2025</em>
 - Machine Learning For Business, <em> Dec 2024</em>
 - Introduction to LLMs in Python, <em>Sept 2024</em>
