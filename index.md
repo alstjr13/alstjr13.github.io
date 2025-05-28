@@ -49,3 +49,85 @@ Machine Learning, Natural Language Processing, Optimization, Data analysis, econ
   - EAGER to learn 📚
   - Responsible 👐🏻
   - and a coffee lover 😏
+
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Theme Switcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Dynamic Theme Switcher</h1>
+        <button id="theme-toggle">Switch Theme</button>
+        <p>Toggle between light and dark themes using the button above.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+<style>
+body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.dark-theme {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+</style>
+
+<script>
+
+// Select the toggle button
+const themeToggleBtn = document.getElementById('theme-toggle');
+
+// Check local storage for theme preference
+const currentTheme = localStorage.getItem('theme') || 'light-theme';
+document.body.classList.add(currentTheme);
+
+// Function to switch themes
+function toggleTheme() {
+    const newTheme = document.body.classList.contains('light-theme') ? 'dark-theme' : 'light-theme';
+    
+    // Remove the existing theme class and add the new one
+    document.body.classList.remove('light-theme', 'dark-theme');
+    document.body.classList.add(newTheme);
+    
+    // Save the user's preference to local storage
+    localStorage.setItem('theme', newTheme);
+}
+
+// Add event listener to the toggle button
+themeToggleBtn.addEventListener('click', toggleTheme);
+
+
+
+</script>
+</html>
+
+
+-->
