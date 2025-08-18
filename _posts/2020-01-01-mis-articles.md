@@ -12,6 +12,5 @@ toc: true
 #### Social Media
 - [SAYS WHO? THE EFFECTS OF PRESENTATION FORMAT AND SOURCE RATING ON FAKE NEWS IN SOCIAL MEDIA](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2987866)
 
-
 #### Artificial Intelligence
 - [AI Voice in Online Video Platforms: A Multimodal Perspective on Content Creation and Consumption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676705)

@@ -25,6 +25,26 @@ Gradient boosting is a method that goes through cycles to iteratively add models
   - Weak learner: ML algorithms that is slightly better than chance
   - Strong learner: Any algorithm that can be tuned to achieve good performance
 
+#### When should I use XGBoost?
+- You have a large number of training samples
+  - Greater than 1000 training samples and less than 100 features
+  - The number of features < number of training samples
+- You have a mixture of categorical and numeric features
+  - Or just numeric features
+
+#### When should I NOT use XGBoost
+- Image recognition
+- Computer vision
+- Natural language processing and understanding problems
+
+#### Loss functions
+- reg:squarederror
+  - Use for regression problems
+- reg:logistic
+  - Use for classification problems when you want decision, not probability
+- binary:logistic
+  - Use when you want probability rather than just decision
+
 #### Python Code Example
 ```python
 # Preprocess data
