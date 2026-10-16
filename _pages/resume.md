@@ -1,16 +1,17 @@
 ---
 layout: single
+title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
+classes: wide
+excerpt: "View or download Minsuk Seo's curriculum vitae."
 ---
 
-#### <ins> Curriculum Vitae </ins>
-<iframe src="../assets/files/resume/CV_MinsukSeo.pdf" width="100%" height="500px"> </iframe>
+<div class="document-actions">
+  <a class="btn btn--primary" href="{{ '/assets/files/resume/CV_MinsukSeo.pdf' | relative_url }}">Open CV (PDF)</a>
+  <a class="text-link" href="{{ '/assets/files/resume/CV_MinsukSeo.pdf' | relative_url }}" download>Download PDF ↓</a>
+</div>
 
-<!-- #### <ins> English Resume </ins> -->
+<iframe class="document-preview" src="{{ '/assets/files/resume/CV_MinsukSeo.pdf' | relative_url }}" title="Minsuk Seo's curriculum vitae" loading="lazy"></iframe>
 
-<!-- <iframe src="../assets/files/resume/MinsukSeo_Resume_Updated241224.pdf" width="100%" height="500px"> </iframe> -->
-
-<!-- #### <ins> Korean Resume </ins> -->
-
-<!-- <iframe src="../assets/files/resume/MinsukSeo_Resume_KOR.pdf" width="100%" height="500px"> </iframe> -->
+If the preview is unavailable, use the PDF link above. You can also browse my [certifications and licenses]({{ '/certification/' | relative_url }}).

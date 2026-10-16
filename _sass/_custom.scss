@@ -1,0 +1,127 @@
+/* Site-specific styles, loaded after the theme. */
+html { font-size: 16px; }
+body { line-height: 1.75; }
+a { text-underline-offset: 0.2em; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 3px solid #245d73; outline-offset: 4px; }
+#main, .masthead__inner-wrap, .page__footer footer, .search-content__inner-wrap {
+  width: 100%; max-width: 1180px; margin-inline: auto; padding-inline: 24px;
+}
+#main { margin-block: 3rem 5rem; }
+.masthead { animation: none; }
+.masthead__inner-wrap { padding-block: 1.15rem; }
+.site-title { font-size: 1.05rem; letter-spacing: -0.035em; }
+.greedy-nav { background: transparent; }
+.greedy-nav a { font-size: 0.9rem; }
+.greedy-nav .visible-links a[aria-current="page"] { color: $primary-color; box-shadow: inset 0 -2px $primary-color; }
+.page, .archive { float: none; width: 100%; padding: 0; min-width: 0; }
+.layout--single #main, .layout--categories #main, .layout--tags #main {
+  display: grid; grid-template-columns: minmax(0, 1fr); gap: 2.5rem;
+  &::before, &::after { display: none; }
+}
+.page__inner-wrap { float: none !important; margin-top: 0 !important; }
+.page .page__inner-wrap .page__content, .page .page__inner-wrap .page__meta {
+  float: none; margin-inline: 0; width: 100%;
+}
+.layout--single .page:only-child { max-width: 850px; margin-inline: auto; }
+.page__title { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.2; letter-spacing: -0.04em; overflow-wrap: anywhere; margin-bottom: 1.5rem; }
+.page__content {
+  overflow-wrap: anywhere;
+  p { margin-bottom: 1.2em; }
+  h2 { font-size: 1.5rem; margin-top: 2.6rem; }
+  h3 { font-size: 1.15rem; }
+  h3, h4 { border: 0; padding-bottom: 0; }
+  .header-link:focus { opacity: 1; }
+}
+.sidebar { opacity: 1; float: none; width: 100%; }
+.sidebar p, .sidebar li { font-size: 0.85rem; }
+.author__avatar img { border-radius: 16px; }
+.sidebar__right, .wide .sidebar__right {
+  position: static; float: none; width: 100%; margin: 0 0 2rem; padding: 0;
+  &.sticky { position: static; float: none; }
+}
+.sidebar__right .toc { box-shadow: none; border: 1px solid $border-color; border-radius: 8px; }
+.sidebar__right .toc .toc__menu { max-height: none; }
+.toc .nav__title { background: #edf2f1; color: $text-color; }
+.custom-box { border: 1px solid $border-color; border-radius: 8px; padding: 1.25rem; background: #f0f3f1; }
+.btn { border-radius: 6px; font-size: 0.9rem; font-weight: 600; padding: 0.85em 1.3em; }
+.btn--primary, .btn--primary:visited { background: $primary-color; color: #fff; }
+.btn--primary:hover { background: #17485b; color: #fff; }
+.text-link { color: $primary-color; font-size: 0.9rem; font-weight: 600; }
+.eyebrow { font-size: 0.71rem; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 650; color: $muted-text-color; }
+.home-hero { display: grid; grid-template-columns: minmax(0, 1fr) 285px; align-items: center; gap: 5rem; padding-block: 1.5rem 3rem; }
+.home-hero h1 { font-size: clamp(3rem, 6vw, 4.7rem); letter-spacing: -0.06em; line-height: 1.05; margin: 1.5rem 0; }
+.name-ko { display: block; font-size: 1rem; font-weight: 400; letter-spacing: 0.12em; margin-top: 1rem; color: $muted-text-color; }
+.home-hero .hero-lead { font-size: 1.5rem; line-height: 1.45; letter-spacing: -0.025em; max-width: 26ch; }
+.hero-description { max-width: 57ch; font-size: 0.98rem; color: $muted-text-color; }
+.action-links, .document-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1.5rem; margin: 1.8rem 0; }
+.action-links .btn, .document-actions .btn { margin: 0; }
+.hero-contact { display: flex; flex-wrap: wrap; gap: 1rem; font-size: 0.8rem; color: $muted-text-color; }
+.hero-contact a { color: inherit; }
+.hero-portrait { display: block; margin: 0; }
+.hero-portrait img { width: 100%; height: 350px; object-fit: cover; object-position: center; border-radius: 100px 100px 12px 12px; }
+.hero-portrait figcaption { font-size: 0.75rem; font-family: $global-font-family; margin-top: 1rem; text-align: center; }
+.home-section { padding-block: 3rem; border-top: 1px solid $border-color; }
+.home-section h2 { font-size: clamp(1.6rem, 3vw, 2rem); letter-spacing: -0.035em; margin: 0 0 2rem; }
+.home-section h3 { margin-top: 0; }
+.interest-grid, .note-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2.5rem; }
+.interest-grid p, .note-grid article > p:last-child { font-size: 0.9rem; color: $muted-text-color; margin-bottom: 0; }
+.section-number { display: block; font-size: 0.75rem; color: $primary-color; margin-bottom: 1rem; }
+.section-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 1.5rem; }
+.section-heading > a { flex-shrink: 0; }
+.project-feature { display: grid; grid-template-columns: 210px minmax(0, 1fr); border: 1px solid $border-color; border-radius: 12px; overflow: hidden; }
+.project-label { background: #e6eeeb; padding: 2rem; display: flex; flex-direction: column; justify-content: space-between; gap: 3rem; }
+.project-label span:first-child { font-size: 1.8rem; line-height: 1.2; letter-spacing: -0.05em; font-weight: 700; color: #245447; }
+.project-label span:last-child { font-size: 0.75rem; color: #456257; }
+.project-detail { padding: 2rem; }
+.project-detail h3 { font-size: 1.4rem; margin: 0 0 1rem; }
+.project-detail h3 a, .note-grid h3 a { text-decoration: none; color: $text-color; }
+.project-detail h3 a:hover, .note-grid h3 a:hover { text-decoration: underline; color: $primary-color; }
+.project-detail p { font-size: 0.95rem; }
+.project-detail .project-role { font-size: 0.8rem; color: $muted-text-color; }
+.note-grid article { border-top: 2px solid $border-color; padding-top: 1.2rem; }
+.note-grid h3 { font-size: 1.1rem; line-height: 1.4; }
+.document-preview { display: block; width: 100%; height: 75vh; min-height: 380px; max-height: 900px; border: 1px solid $border-color; border-radius: 8px; margin-bottom: 1.5rem; }
+.taxonomy__index { display: flex; flex-wrap: wrap; gap: 0.6rem; padding: 0; border-bottom: 0; margin: 2rem 0 3rem; }
+.taxonomy__index li { width: auto; margin: 0; padding: 0; list-style: none; }
+.taxonomy__index a { display: block; padding: 0.45rem 0.8rem; border: 1px solid $border-color; border-radius: 6px; font-size: 0.8rem; text-decoration: none; }
+.taxonomy__index a:hover { background: #edf2f1; }
+.taxonomy__count { margin-left: 0.5rem; color: $muted-text-color; }
+.archive__subtitle { font-size: 1.3rem; color: $text-color; }
+.archive__item { padding-block: 1rem; border-bottom: 1px solid $border-color; }
+.archive__item-title { font-size: 1.1rem; line-height: 1.5; margin: 0 0 0.5rem; }
+.archive__item-title a { text-decoration: none; }
+.archive__item-excerpt { font-size: 0.9rem; color: $muted-text-color; line-height: 1.65; }
+.page__footer { margin-top: 0; }
+.page__footer footer { padding-block: 2rem; }
+.page__footer-follow li { font-size: 0.75rem; }
+.page__footer-copyright { font-size: 0.7rem; }
+@media (min-width: 1024px) {
+  .layout--single #main:has(> .sidebar) { grid-template-columns: 200px minmax(0, 1fr); gap: 4rem; }
+  .layout--single #main > .sidebar { position: static; max-height: none; }
+}
+@media (max-width: 767px) {
+  #main, .masthead__inner-wrap, .page__footer footer, .search-content__inner-wrap { padding-inline: 20px; }
+  #main { margin-block: 1.75rem 3rem; }
+  .home-hero { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 0.5rem; }
+  .hero-portrait { max-width: 240px; }
+  .hero-portrait img { height: 280px; }
+  .interest-grid, .note-grid { grid-template-columns: 1fr; gap: 1.8rem; }
+  .home-section { padding-block: 2rem; }
+  .section-heading { display: block; margin-bottom: 1.8rem; }
+  .section-heading h2 { margin-bottom: 0.75rem; }
+  .project-feature { grid-template-columns: 1fr; }
+  .project-label { gap: 1rem; }
+  .project-label, .project-detail { padding: 1.5rem; }
+  .document-preview { min-height: 320px; height: 60vh; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+/* Keep wide equations inside the reading column after MathJax typesetting. */
+.MathJax_Display, .MJXc-display {
+  max-width: 100%; overflow-x: auto; overflow-y: hidden; padding-block: 0.4rem;
+}
+.page__content .MathJax_CHTML {
+  max-width: 100%; overflow-x: auto; overflow-y: hidden;
+}
+.home-page .header-link { display: none; }

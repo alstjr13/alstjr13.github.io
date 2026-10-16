@@ -1,3 +1,8 @@
+{% assign current_nav = page.url %}
+{% if page.id %}
+  {% assign current_nav = "/categories/" %}
+  {% if page.categories contains "Project" %}{% assign current_nav = "/project_show/" %}{% endif %}
+{% endif %}
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
 <div class="masthead">
@@ -16,6 +21,7 @@
             <li class="masthead__menu-item">
               <a
                 href="{{ link.url | relative_url }}"
+                {% if current_nav == link.url %}aria-current="page"{% endif %}
                 {% if link.description %} title="{{ link.description }}"{% endif %}
                 {% if link.target %} target="{{ link.target }}"{% endif %}
               >{{ link.title }}</a>

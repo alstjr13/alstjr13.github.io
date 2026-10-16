@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Certifications & licenses"
 permalink: /certification/
 author_profile: true
 toc: true
